@@ -1,4 +1,4 @@
-# AI-Credit-Risk-Prediction
+ 
 # AI Credit Risk Prediction
 
 A Machine Learning project for predicting the probability of serious credit delinquency within the next two years.

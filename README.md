@@ -1,1 +1,1 @@
-# AI-Credit-Risk-Prediction
+# Credit-Risk-Prediction
